@@ -1,10 +1,10 @@
 # JQuery Mask Entry Animation
  
-Implementation of an intro animation with clip-path mask for images using jQuery and jQuery UI, inspired by the [Olivier Larose blog](https://blog.olivierlarose.com/tutorials/mask-entry).
+Implementation of an intro animation with clip-path mask for images using jQuery and jQuery UI, inspired by the [Olivier Larose](https://blog.olivierlarose.com/tutorials/mask-entry).
 
-Read blog post: []()
+Read blog post: [Medium/cpadlab](https://medium.com/@cpadlab/jquery-mask-entry-animation-62325bb9b35b)
 
-Live demo: [CodePen/cpadlab](https://codepen.io/cpadlab/pen/oNKJwqN)
+Live demo: [Codepen/cpadlab](https://codepen.io/cpadlab/pen/oNKJwqN)
 
 ## Requirements
 
